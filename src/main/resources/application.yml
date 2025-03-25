@@ -1,0 +1,7 @@
+
+server:
+  port: 8080
+
+neo4j:
+  uri: bolt://localhost:7687
+  username: neo4j
